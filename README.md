@@ -31,7 +31,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-  <h2>🚀 Meus Projetos</h2>
+  <h2>🚀 Nossas Traduções & Projetos/Continuidade </h2>
   <a href="https://github.com/Hekisai8777/Echo-PTBR">
     <img src="https://raw.githubusercontent.com/Heruzinyo/EchoPTBR/main/Promotional/GitHub/Social%20Preview.jpg" width="800" style="border-radius: 10px;" />
   </a>
