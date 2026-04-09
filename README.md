@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E86438&height=220&section=header&text=Hekisai8777&fontSize=80&animation=fadeIn&fontColor=FFEDD1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E86438&height=220&section=header&text=Hekisai8777.&fontSize=80&animation=fadeIn&fontColor=FFEDD1" />
   <p><strong>Dev | Scripting | Translation</strong></p>
 </div>
 
